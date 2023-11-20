@@ -25,6 +25,6 @@ config TARGET_QEMU_X86_64
 
 endchoice
 
-source "board/emulation/qemu-x86/Kconfig"
+# source "board/emulation/qemu-x86/Kconfig"
 
 endif
